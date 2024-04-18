@@ -1,0 +1,10 @@
+{
+    "Name": "DerptideHardcore",
+    "Author": "Sepultaris",
+    "Description": "This mod is a port of the hardcore mechanics from ValHeel.",
+    "Version": "0.01",
+    "Enabled": true,
+    "HotReload": true,
+    "RegisterCommands": true,
+    "ACEVersion": "1.1.0"
+}
